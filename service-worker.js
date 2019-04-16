@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rubeeengm.github.io/weather-react/precache-manifest.6618a4dcc5b6a36b5998faea9d1abaa8.js"
+  "/weather-react/precache-manifest.488333747b7332ccde2fd49963b4539c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rubeeengm.github.io/weather-react/index.html", {
+workbox.routing.registerNavigationRoute("/weather-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
