@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2020386a88f699cb40cb",
+    "revision": "b942f458b6b25fe44afd",
     "url": "/weather-react/static/css/main.4dd045d0.chunk.css"
   },
   {
-    "revision": "2020386a88f699cb40cb",
-    "url": "/weather-react/static/js/main.e760d8f8.chunk.js"
+    "revision": "b942f458b6b25fe44afd",
+    "url": "/weather-react/static/js/main.fb1e3c4f.chunk.js"
   },
   {
     "revision": "506bda8b13d079890b68",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/weather-react/static/js/2.0940d21d.chunk.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/weather-react/static/media/glyphicons-halflings-regular.f4769f9b.eot"
-  },
-  {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/weather-react/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/weather-react/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/weather-react/static/media/bg.b6796c73.jpg"
   },
   {
-    "revision": "a302e8567298995cc68e98ecf720da10",
+    "revision": "461f3b5e356436fa21a943265848c076",
     "url": "/weather-react/index.html"
   }
 ];
